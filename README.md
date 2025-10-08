@@ -1,7 +1,7 @@
 #  PID Réservations – Starter Kit (Youssef Qarnouf)
 
 ##  Description
-Projet d'intégration ICC 2025 – Application de réservation de spectacles.  
+Projet d'intégration ICC 2025 - Application de réservation de spectacles.  
 Ce projet présente une architecture complète et fonctionnelle basée sur :
 - Backend : Spring Boot 3 (Java 17)
 - Frontend : Angular 20
@@ -25,7 +25,7 @@ L'objectif est de fournir un Starter Kit propre, structuré et prêt à l’empl
 
 ##  Installation et exécution
 
-###  Backend – Spring Boot
+###  Backend - Spring Boot
 ```bash
 cd PID-Reservations-Backend
 mvn spring-boot:run

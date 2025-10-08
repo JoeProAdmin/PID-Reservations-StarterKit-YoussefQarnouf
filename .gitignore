@@ -1,0 +1,14 @@
+﻿# --- IDE / OS ---
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# --- Maven / Java ---
+target/
+*.log
+
+# --- Angular / Node ---
+PID-Reservations-Frontend/node_modules/
+PID-Reservations-Frontend/dist/

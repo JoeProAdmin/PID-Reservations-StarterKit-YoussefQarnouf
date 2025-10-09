@@ -1,4 +1,4 @@
-#  PID Réservations – Starter Kit (Youssef Qarnouf)
+#  PID Réservations - Starter Kit (Youssef Qarnouf)
 
 ##  Description
 Projet d'intégration ICC 2025 - Application de réservation de spectacles.  

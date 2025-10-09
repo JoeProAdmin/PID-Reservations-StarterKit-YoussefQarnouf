@@ -1,31 +1,30 @@
-#  PID Réservations - Starter Kit (Youssef Qarnouf)
+# PID Réservations - Starter Kit (Youssef Qarnouf)
 
-##  Description
-Projet d'intégration ICC 2025 - Application de réservation de spectacles.  
-Ce projet présente une architecture complète et fonctionnelle basée sur :
-- Backend : Spring Boot 3 (Java 17)
-- Frontend : Angular 20
-- Base de données : MySQL
+## Description
+Projet d’intégration ICC 2025 - Application de réservation de spectacles.  
+Ce projet constitue un **Starter Kit complet** combinant un backend Java Spring Boot 3 et un frontend Angular 20.  
+Il sert de base de développement pour le projet complet PID Réservations.
 
-L'objectif est de fournir un Starter Kit propre, structuré et prêt à l’emploi, servant de base au développement du projet final.
+## Architecture
+- **Backend :** Spring Boot 3 (Java 17) - API REST pour la gestion des artistes  
+- **Frontend :** Angular 20 - Interface de visualisation des artistes  
+- **Base de données :** MySQL via JPA/Hibernate  
 
----
+## Objectif
+Fournir une architecture claire, modulaire et évolutive pour un environnement académique professionnel.
 
-##  Technologies utilisées
-
-| Couche | Technologie | Description |
-|--------|--------------|--------------|
-| Backend | Spring Boot 3 | Développement d'une API REST (gestion des artistes) |
-| Frontend | Angular 20 | Interface utilisateur dynamique |
-| Base de données | MySQL | Stockage des informations sur les artistes |
-| IDE | IntelliJ IDEA / VSCode | Environnements de développement |
+## Technologies utilisées
+| Couche | Technologie | Rôle |
+|--------|--------------|------|
+| Backend | Spring Boot 3 | Développement de l’API REST |
+| Frontend | Angular 20 | Interface dynamique |
+| Base de données | MySQL | Stockage des données |
+| IDE | IntelliJ IDEA / VS Code | Développement |
 | Versioning | Git & GitHub | Suivi et publication du code |
 
----
+## Instructions d’exécution
 
-##  Installation et exécution
-
-###  Backend - Spring Boot
+### 1. Lancer le backend
 ```bash
 cd PID-Reservations-Backend
 mvn spring-boot:run

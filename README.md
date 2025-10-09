@@ -30,7 +30,7 @@ cd PID-Reservations-Backend
 mvn spring-boot:run
 Accès : http://localhost:8080/api/artists
 
-2. Lancer le frontend
+### 2. Lancer le frontend
 cd PID-Reservations-Frontend
 ng serve -o
 Accès : http://localhost:4200

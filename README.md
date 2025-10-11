@@ -2,7 +2,7 @@
 
 ##  Description
 
-Projet d’intégration ICC 2025/2026 – Application de réservation de spectacles.
+Projet d’intégration ICC 2025 - Application de réservation de spectacles.
 Ce projet constitue un **Starter Kit complet** combinant un backend **Java Spring Boot 3** et un frontend **Angular 17**.
 Il sert de **base de développement** pour le projet complet *PID Réservations 2025*.
 

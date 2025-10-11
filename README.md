@@ -35,7 +35,7 @@ Le Starter Kit met en place les fondations techniques et une architecture profes
 
 ##  Objectif pédagogique
 
-Ce projet a pour but de fournir une **base technique propre** pour le cours *Projet d’Intégration et Développement (PID)*.
+Ce projet a pour but de fournir une **base technique propre** pour le cours *Projet d’Intégration Développement (PID)*.
 Il permet aux étudiants de se concentrer sur le **développement fonctionnel**, sans perdre de temps sur la configuration initiale.
 
 Objectifs :

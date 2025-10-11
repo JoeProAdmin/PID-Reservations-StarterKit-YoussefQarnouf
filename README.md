@@ -99,7 +99,7 @@ Objectifs :
 
 **Youssef Qarnouf**
 Institut des Carrières Commerciales (ICC) - Année académique 2025-2026
-Cours : Projet d’Intégration et Développement (PID)
+Cours : Projet d’Intégration Développement (PID)
 🔗 GitHub : [JoeProAdmin](https://github.com/JoeProAdmin)
 
 ---

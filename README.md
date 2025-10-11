@@ -18,7 +18,7 @@ Le Starter Kit met en place les fondations techniques et une architecture profes
 | **Frontend**        | Angular 17              | Interface de visualisation des artistes         |
 | **Base de données** | MySQL                   | Stockage des données                            |
 | **ORM**             | JPA / Hibernate         | Mapping objet-relationnel                       |
-| **IDE utilisés**    | IntelliJ IDEA / VS Code | Développement complet                           |
+| **IDE utilisés**    | IntelliJ IDEA           | Développement complet                           |
 | **Versioning**      | Git & GitHub            | Suivi et publication du code                    |
 
 ---
